@@ -3828,3 +3828,264 @@ Last issue:
 [2025.08.04-18.03.09:852][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 4.22 sec)
 [2025.08.04-18.03.09:856][223]AssetCheck: New page: Asset Save: Nuevo_Mapa
 [2025.08.04-18.03.09:856][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/Nuevo_Mapa.Nuevo_Mapa
+[2025.08.04-18.06.24:734][744]BlueprintLog: New page: Compile BP_Door
+[2025.08.04-18.06.24:822][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.04-18.06.25:553][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.04-18.06.25:657][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_Door" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/BPs/BP_Door.uasset" SILENT=true
+[2025.08.04-18.06.25:667][782]LogSavePackage: Moving output files for package: /Game/BPs/BP_Door
+[2025.08.04-18.06.25:668][782]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/BP_Door72F3B1494052F846F61939AB664FFC24.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/BPs/BP_Door.uasset'
+[2025.08.04-18.06.25:677][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.34 sec)
+[2025.08.04-18.06.25:679][782]AssetCheck: New page: Asset Save: BP_Door
+[2025.08.04-18.06.25:679][782]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BPs/BP_Door.BP_Door
+[2025.08.04-18.06.27:058][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.04-18.06.27:070][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.04-18.06.27:070][880]PIE: New page: PIE session: Nuevo_Mapa (Aug 4, 2025, 7:06:27 AM)
+[2025.08.04-18.06.27:070][880]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2025.08.04-18.06.27:073][880]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.08.04-18.06.27:100][881]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.04-18.06.27:135][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034621s)
+[2025.08.04-18.06.27:135][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.034668s)
+[2025.08.04-18.06.27:154][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.04-18.06.27:159][881]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.04-18.06.27:159][881]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.04-18.06.27:160][881]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.04-18.06.27:160][881]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2025.08.04-18.06.27:160][881]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.04-18.06.27:160][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.04-18.06.27:160][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.04-18.06.27:161][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.04-18.06.27:161][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.04-18.06.27:161][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.04-18.06.27:163][881]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.04-18.06.27:187][881]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Echo Dot-BUH Stereo)
+[2025.08.04-18.06.27:187][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.04-18.06.27:187][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.04-18.06.27:187][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.04-18.06.27:188][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.08.04-18.06.27:188][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.08.04-18.06.27:190][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.08.04-18.06.27:190][881]LogInit: FAudioDevice initialized with ID 30.
+[2025.08.04-18.06.27:190][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.08.04-18.06.27:190][881]LogAudio: Display: Audio Device (ID: 30) registered with world 'Nuevo_Mapa'.
+[2025.08.04-18.06.27:190][881]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.04-18.06.27:193][881]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.04-18.06.27:216][881]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.04-12.06.27
+[2025.08.04-18.06.27:217][881]LogWorld: Bringing up level for play took: 0.023575
+[2025.08.04-18.06.27:222][881]PIE: Server logged in
+[2025.08.04-18.06.27:223][881]PIE: Play in editor total start time 0.153 seconds.
+[2025.08.04-18.06.39:796][ 60]LogElectraPlayer: [00000AEBE6DDEE00] FElectraPlayer() created.
+[2025.08.04-18.06.39:796][ 60]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaPlayer::Open: Options@00000AEB9EC225B0
+[2025.08.04-18.06.39:801][ 60]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] IMediaPlayer::Open(file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4)
+[2025.08.04-18.06.39:811][ 61]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Opening stream at "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.39:858][ 66]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Received master playlist from "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.39:858][ 66]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Received initial stream playlists
+[2025.08.04-18.06.39:858][ 66]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Found 1920 * 1080 video stream at bitrate 10097500
+[2025.08.04-18.06.39:858][ 66]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaControls::SetRate(1.000000)
+[2025.08.04-18.06.39:868][ 67]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Initial buffering starts
+[2025.08.04-18.06.39:868][ 67]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player switched video quality to 10097500 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2025.08.04-18.06.39:886][ 69]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Initial buffering ended after 0.018s
+[2025.08.04-18.06.39:886][ 69]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.40:107][ 88]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player prerolling complete
+[2025.08.04-18.06.40:127][ 90]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback started at play position 0.000
+[2025.08.04-18.06.40:127][ 90]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback resumed at play position 0.000
+[2025.08.04-18.06.40:952][169]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player: Rebuffering starts over at current position
+[2025.08.04-18.06.40:976][171]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Rebuffering buffering starts
+[2025.08.04-18.06.40:997][173]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Rebuffering buffering ended after 0.020s
+[2025.08.04-18.06.40:997][173]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.41:254][198]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Player prerolling complete
+[2025.08.04-18.06.41:275][200]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback resumed at play position 7.105
+[2025.08.04-18.06.41:761][248]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback paused at play position 9.643
+[2025.08.04-18.06.41:762][248]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback reached end at play position 9.643
+[2025.08.04-18.06.42:031][273]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] IMediaPlayer::Close()
+[2025.08.04-18.06.42:031][273]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Playback stopped. Last play position 9.643
+[2025.08.04-18.06.42:031][273]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A16D0] Electra player statistics:
+OS: Windows 10 (22H2) [10.0.19045.6093]
+GPU Adapter: NVIDIA GeForce RTX 3070
+URL: file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4
+Time after master playlist loaded: 0.047s
+Time after stream playlists loaded: 0.047s
+Time for initial buffering: 0.018s
+Initial video stream bitrate: 10097500 bps
+Initial buffering bandwidth bps: 30116496000.000
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.221s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 1
+Total time spent rebuffering: 0.020s
+Longest rebuffering time: 0.020s
+First media timeline start: 0.000s
+First media timeline end: 9.643s
+Last media timeline start: 0.000s
+Last media timeline end: 9.643s
+Media duration: 9.643s
+Play position at start: 0.000s
+Play position at end: 9.643s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 11842310
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+10097500 : 4
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Ended
+Last issue: 
+
+[2025.08.04-18.06.42:034][273]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaPlayer::Open: Options@00000AEB9EC225B0
+[2025.08.04-18.06.42:034][273]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] IMediaPlayer::Open(file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4)
+[2025.08.04-18.06.42:143][283]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Opening stream at "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.42:145][283]LogElectraPlayer: [00000AEBDB8A16D0] DoCloseAsync() finished after 114.506 msec!
+[2025.08.04-18.06.42:185][287]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Received master playlist from "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.42:186][287]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Received initial stream playlists
+[2025.08.04-18.06.42:186][287]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Found 1920 * 1080 video stream at bitrate 10097500
+[2025.08.04-18.06.42:186][287]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaControls::SetRate(1.000000)
+[2025.08.04-18.06.42:196][288]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Initial buffering starts
+[2025.08.04-18.06.42:196][288]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player switched video quality to 10097500 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2025.08.04-18.06.42:216][290]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Initial buffering ended after 0.020s
+[2025.08.04-18.06.42:216][290]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.42:437][309]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player prerolling complete
+[2025.08.04-18.06.42:458][311]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback started at play position 0.000
+[2025.08.04-18.06.42:458][311]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback resumed at play position 0.000
+[2025.08.04-18.06.43:299][391]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player: Rebuffering starts over at current position
+[2025.08.04-18.06.43:324][393]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Rebuffering buffering starts
+[2025.08.04-18.06.43:346][395]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Rebuffering buffering ended after 0.022s
+[2025.08.04-18.06.43:346][395]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.43:595][417]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Player prerolling complete
+[2025.08.04-18.06.43:625][420]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback resumed at play position 7.152
+[2025.08.04-18.06.44:105][467]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback paused at play position 9.643
+[2025.08.04-18.06.44:105][467]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback reached end at play position 9.643
+[2025.08.04-18.06.47:422][783]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] IMediaPlayer::Close()
+[2025.08.04-18.06.47:422][783]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Playback stopped. Last play position 9.643
+[2025.08.04-18.06.47:422][783]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A4890] Electra player statistics:
+OS: Windows 10 (22H2) [10.0.19045.6093]
+GPU Adapter: NVIDIA GeForce RTX 3070
+URL: file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4
+Time after master playlist loaded: 0.042s
+Time after stream playlists loaded: 0.042s
+Time for initial buffering: 0.020s
+Initial video stream bitrate: 10097500 bps
+Initial buffering bandwidth bps: 30116496000.000
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.220s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 1
+Total time spent rebuffering: 0.022s
+Longest rebuffering time: 0.022s
+First media timeline start: 0.000s
+First media timeline end: 9.643s
+Last media timeline start: 0.000s
+Last media timeline end: 9.643s
+Media duration: 9.643s
+Play position at start: 0.000s
+Play position at end: 9.643s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 11842310
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+10097500 : 4
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Ended
+Last issue: 
+
+[2025.08.04-18.06.47:425][783]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaPlayer::Open: Options@00000AEB9EC225B0
+[2025.08.04-18.06.47:425][783]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] IMediaPlayer::Open(file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4)
+[2025.08.04-18.06.47:529][793]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Opening stream at "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.47:532][793]LogElectraPlayer: [00000AEBDB8A4890] DoCloseAsync() finished after 109.921 msec!
+[2025.08.04-18.06.47:572][797]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Received master playlist from "file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4"
+[2025.08.04-18.06.47:572][797]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Received initial stream playlists
+[2025.08.04-18.06.47:572][797]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Found 1920 * 1080 video stream at bitrate 10097500
+[2025.08.04-18.06.47:572][797]LogElectraPlayerPlugin: [00000AEBE244E000] IMediaControls::SetRate(1.000000)
+[2025.08.04-18.06.47:582][798]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Initial buffering starts
+[2025.08.04-18.06.47:582][798]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player switched video quality to 10097500 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2025.08.04-18.06.47:604][800]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Initial buffering ended after 0.022s
+[2025.08.04-18.06.47:604][800]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.47:801][815]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player prerolling complete
+[2025.08.04-18.06.47:823][817]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback started at play position 0.000
+[2025.08.04-18.06.47:823][817]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback resumed at play position 0.000
+[2025.08.04-18.06.48:639][887]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player: Rebuffering starts over at current position
+[2025.08.04-18.06.48:677][890]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Rebuffering buffering starts
+[2025.08.04-18.06.48:687][891]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Rebuffering buffering ended after 0.010s
+[2025.08.04-18.06.48:687][891]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player starts prerolling to warm decoders and renderers
+[2025.08.04-18.06.48:950][912]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Player prerolling complete
+[2025.08.04-18.06.48:971][914]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback resumed at play position 7.105
+[2025.08.04-18.06.49:458][959]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback paused at play position 9.643
+[2025.08.04-18.06.49:458][959]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback reached end at play position 9.643
+[2025.08.04-18.07.14:143][364]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] IMediaPlayer::Close()
+[2025.08.04-18.07.14:143][364]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Playback stopped. Last play position 9.643
+[2025.08.04-18.07.14:143][364]LogElectraPlayer: [00000AEBE6DDEE00][00000AEBDB8A0BD0] Electra player statistics:
+OS: Windows 10 (22H2) [10.0.19045.6093]
+GPU Adapter: NVIDIA GeForce RTX 3070
+URL: file://C:/Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Movies/asx.mp4
+Time after master playlist loaded: 0.043s
+Time after stream playlists loaded: 0.043s
+Time for initial buffering: 0.022s
+Initial video stream bitrate: 10097500 bps
+Initial buffering bandwidth bps: 30116496000.000
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.197s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 1
+Total time spent rebuffering: 0.010s
+Longest rebuffering time: 0.010s
+First media timeline start: 0.000s
+First media timeline end: 9.643s
+Last media timeline start: 0.000s
+Last media timeline end: 9.643s
+Media duration: 9.643s
+Play position at start: 0.000s
+Play position at end: 9.643s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 11842310
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+10097500 : 4
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Ended
+Last issue: 
+
+[2025.08.04-18.07.14:145][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.04-18.07.14:145][364]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.04-18.07.14:146][364]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.04-18.07.14:149][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-18.07.14:162][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.04-18.07.14:169][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-18.07.14:190][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.04-18.07.14:192][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.04-18.07.14:192][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.04-18.07.14:195][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.04-18.07.14:212][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.04-18.07.14:218][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.04-18.07.14:231][364]LogElectraPlayer: [00000AEBDB8A0BD0] DoCloseAsync() finished after 88.393 msec!
+[2025.08.04-18.07.14:290][365]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.08.04-18.07.14:291][365]LogElectraPlayer: [00000AEBE6DDEE00] ~FElectraPlayer() finished.
+[2025.08.04-18.12.01:525][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.04-18.12.01:534][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.04-18.12.01:575][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_BubbleMachine" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/BPs/BP_BubbleMachine.uasset" SILENT=true
+[2025.08.04-18.12.01:585][248]LogSavePackage: Moving output files for package: /Game/BPs/BP_BubbleMachine
+[2025.08.04-18.12.01:586][248]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/BP_BubbleMachine4C71D9CA40A1EA5A8F7848A428C7D4A9.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/BPs/BP_BubbleMachine.uasset'
+[2025.08.04-18.12.01:588][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hide/BP_HideLocker" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Hide/BP_HideLocker.uasset" SILENT=true
+[2025.08.04-18.12.01:604][248]LogSavePackage: Moving output files for package: /Game/Hide/BP_HideLocker
+[2025.08.04-18.12.01:605][248]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/BP_HideLocker057965D648D30E2932A1BDAD63159D4F.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Hide/BP_HideLocker.uasset'
+[2025.08.04-18.12.01:615][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 4.42 sec)
+[2025.08.04-18.12.01:619][248]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.04-18.12.01:619][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine
+[2025.08.04-18.12.01:619][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hide/BP_HideLocker.BP_HideLocker
