@@ -2439,3 +2439,678 @@ Last issue:
 [2025.08.07-18.41.08:490][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 3.86 sec)
 [2025.08.07-18.41.08:496][456]AssetCheck: New page: Asset Save: Nuevo_Mapa
 [2025.08.07-18.41.08:496][456]LogContentValidation: Display: Validating /Script/Engine.World /Game/Nuevo_Mapa.Nuevo_Mapa
+[2025.08.07-18.42.31:702][238]LogSlate: Window 'BP_Door' being destroyed
+[2025.08.07-18.42.55:861][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BPs/BP_Enemy.BP_Enemy
+[2025.08.07-18.42.55:862][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.42.55:862][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.43.34:859][825]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.43.34:860][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.45.45:162][173]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_LockedDoor.BP_LockedDoor_C
+[2025.08.07-18.45.45:165][173]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_LockedDoor.BP_LockedDoor as actor: BP_LockedDoor_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.StaticMeshActor_314
+[2025.08.07-18.45.45:191][173]EditorErrors: New page: Actor Reattachment
+[2025.08.07-18.45.56:190][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.45.56:190][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.45.56:193][133]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_4
+[2025.08.07-18.45.56:195][133]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_4
+[2025.08.07-18.45.56:850][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.45.56:850][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.45.56:855][164]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_5
+[2025.08.07-18.45.56:858][164]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_5
+[2025.08.07-18.46.07:396][979]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.07-18.46.07:409][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.07-18.46.07:409][979]PIE: New page: PIE session: Nuevo_Mapa (Aug 7, 2025, 7:46:07 AM)
+[2025.08.07-18.46.07:450][979]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2025.08.07-18.46.07:452][979]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.08.07-18.46.07:475][980]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.46.07:540][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064204s)
+[2025.08.07-18.46.07:540][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.064252s)
+[2025.08.07-18.46.07:560][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.08.07-18.46.07:565][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.46.07:565][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.46.07:565][980]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.07-18.46.07:566][980]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2025.08.07-18.46.07:566][980]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.07-18.46.07:566][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.07-18.46.07:566][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.07-18.46.07:566][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.07-18.46.07:566][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.07-18.46.07:566][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.07-18.46.07:568][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.07-18.46.07:591][980]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Echo Dot-BUH Stereo)
+[2025.08.07-18.46.07:591][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.07-18.46.07:591][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.07-18.46.07:591][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.07-18.46.07:592][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.07-18.46.07:592][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.07-18.46.07:594][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.07-18.46.07:594][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.07-18.46.07:594][980]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.07-18.46.07:594][980]LogAudio: Display: Audio Device (ID: 11) registered with world 'Nuevo_Mapa'.
+[2025.08.07-18.46.07:594][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.07-18.46.07:597][980]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.07-18.46.07:635][980]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.07-12.46.07
+[2025.08.07-18.46.07:636][980]LogWorld: Bringing up level for play took: 0.037674
+[2025.08.07-18.46.07:642][980]PIE: Server logged in
+[2025.08.07-18.46.07:643][980]PIE: Play in editor total start time 0.234 seconds.
+[2025.08.07-18.46.11:480][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.46.11:480][162]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.46.11:481][162]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.46.11:484][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.46.11:489][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.07-18.46.11:495][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.46.11:515][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.07-18.46.11:515][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.07-18.46.11:515][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.07-18.46.11:517][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.07-18.46.11:522][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.46.11:531][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.07-18.46.11:599][163]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.08.07-18.46.14:122][360]Cmd: DELETE
+[2025.08.07-18.46.14:122][360]Cmd: ACTOR DELETE
+[2025.08.07-18.46.14:137][360]LogEditorActor: Actor BP_LockedDoor2 is referenced by BP_Keys.
+[2025.08.07-18.46.16:574][360]LogSlate: Window 'Message' being destroyed
+[2025.08.07-18.46.16:582][360]Message dialog closed, result: Yes, title: Message, text: Actor BP_LockedDoor2 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Keys
+[2025.08.07-18.46.16:584][360]LogEditorActor: Deleted Actor: BP_LockedDoor_C
+[2025.08.07-18.46.16:604][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.08.07-18.46.16:608][360]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.08.07-18.46.17:390][410]Cmd: DELETE
+[2025.08.07-18.46.17:390][410]Cmd: ACTOR DELETE
+[2025.08.07-18.46.17:405][410]LogEditorActor: Actor BP_LockedDoor is referenced by BP_Keys2.
+[2025.08.07-18.46.18:224][410]LogSlate: Window 'Message' being destroyed
+[2025.08.07-18.46.18:231][410]Message dialog closed, result: Yes, title: Message, text: Actor BP_LockedDoor is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Keys2
+[2025.08.07-18.46.18:233][410]LogEditorActor: Deleted Actor: BP_LockedDoor_C
+[2025.08.07-18.46.18:253][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.07-18.46.18:256][410]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.08.07-18.46.19:502][528]Cmd: DELETE
+[2025.08.07-18.46.19:502][528]Cmd: ACTOR DELETE
+[2025.08.07-18.46.19:517][528]LogEditorActor: Deleted Actor: BP_Keys_C
+[2025.08.07-18.46.19:534][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.07-18.46.19:537][528]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.08.07-18.46.20:744][655]Cmd: DELETE
+[2025.08.07-18.46.20:745][655]Cmd: ACTOR DELETE
+[2025.08.07-18.46.20:759][655]LogEditorActor: Deleted Actor: BP_Keys_C
+[2025.08.07-18.46.20:774][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.07-18.46.20:777][655]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.08.07-18.46.22:649][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-18.46.22:689][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nuevo_Mapa" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Nuevo_Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.07-18.46.22:744][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.07-18.46.22:972][839]LogSavePackage: Moving output files for package: /Game/Nuevo_Mapa
+[2025.08.07-18.46.22:973][839]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Nuevo_MapaE58A99AC49B936B74EFBE18F7B78F7CE.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Nuevo_Mapa.umap'
+[2025.08.07-18.46.22:986][839]LogFileHelpers: Saving map 'Nuevo_Mapa' took 0.298
+[2025.08.07-18.46.22:996][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 346 ms (total: 4.21 sec)
+[2025.08.07-18.46.23:002][839]AssetCheck: New page: Asset Save: Nuevo_Mapa
+[2025.08.07-18.46.23:002][839]LogContentValidation: Display: Validating /Script/Engine.World /Game/Nuevo_Mapa.Nuevo_Mapa
+[2025.08.07-18.46.23:764][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.07-18.46.23:777][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.07-18.46.23:778][899]PIE: New page: PIE session: Nuevo_Mapa (Aug 7, 2025, 7:46:23 AM)
+[2025.08.07-18.46.23:778][899]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2025.08.07-18.46.23:780][899]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.08.07-18.46.23:804][900]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.46.23:869][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064959s)
+[2025.08.07-18.46.23:869][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.065006s)
+[2025.08.07-18.46.23:885][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.07-18.46.23:887][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.46.23:887][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.46.23:887][900]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.07-18.46.23:888][900]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2025.08.07-18.46.23:888][900]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.07-18.46.23:888][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.07-18.46.23:888][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.07-18.46.23:889][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.07-18.46.23:889][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.07-18.46.23:889][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.07-18.46.23:891][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.07-18.46.23:920][900]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Echo Dot-BUH Stereo)
+[2025.08.07-18.46.23:921][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.07-18.46.23:921][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.07-18.46.23:921][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.07-18.46.23:922][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.08.07-18.46.23:922][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.08.07-18.46.23:924][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.08.07-18.46.23:924][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.08.07-18.46.23:924][900]LogInit: FAudioDevice initialized with ID 12.
+[2025.08.07-18.46.23:924][900]LogAudio: Display: Audio Device (ID: 12) registered with world 'Nuevo_Mapa'.
+[2025.08.07-18.46.23:924][900]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.07-18.46.23:927][900]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.07-18.46.23:965][900]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.07-12.46.23
+[2025.08.07-18.46.23:966][900]LogWorld: Bringing up level for play took: 0.038293
+[2025.08.07-18.46.23:972][900]PIE: Server logged in
+[2025.08.07-18.46.23:973][900]PIE: Play in editor total start time 0.196 seconds.
+[2025.08.07-18.46.41:010][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.46.41:010][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.46.41:011][828]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.46.41:015][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.46.41:030][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.07-18.46.41:037][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.46.41:052][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.46.41:056][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.07-18.46.41:056][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.08.07-18.46.41:058][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.08.07-18.46.41:072][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.08.07-18.46.41:120][829]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.08.07-18.46.52:978][114]Cmd: DUPLICATE
+[2025.08.07-18.46.52:978][114]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.47.21:890][524]Cmd: TRANSACTION UNDO
+[2025.08.07-18.47.21:890][524]LogEditorTransaction: Undo Move Elements
+[2025.08.07-18.47.32:413][398]Cmd: TRANSACTION UNDO
+[2025.08.07-18.47.32:413][398]LogEditorTransaction: Undo Clicking on Elements
+[2025.08.07-18.47.37:973][829]Cmd: DELETE
+[2025.08.07-18.47.37:973][829]Cmd: ACTOR DELETE
+[2025.08.07-18.47.37:989][829]LogEditorActor: Deleted Actor: BP_HighLightFlicker_C
+[2025.08.07-18.47.38:009][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.07-18.47.38:015][829]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.08.07-18.47.50:243][127]Cmd: DUPLICATE
+[2025.08.07-18.47.50:243][127]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.48.30:805][442]Cmd: DUPLICATE
+[2025.08.07-18.48.30:805][442]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.48.53:645][436]Cmd: DUPLICATE
+[2025.08.07-18.48.53:645][436]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.49.28:612][385]Cmd: DUPLICATE
+[2025.08.07-18.49.28:612][385]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.49.28:648][385]LogClass: Warning: Short type name "RectLight_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.08.07-18.49.28:664][385]LogClass: Warning: Short type name "RectLight_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.08.07-18.49.39:585][279]Cmd: DUPLICATE
+[2025.08.07-18.49.39:585][279]Cmd: ACTOR DUPLICATE
+[2025.08.07-18.49.39:605][279]LogClass: Warning: Short type name "RectLight_34" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.08.07-18.49.39:621][279]LogClass: Warning: Short type name "RectLight_34" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.08.07-18.49.48:524][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.07-18.49.48:537][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.07-18.49.48:537][999]PIE: New page: PIE session: Nuevo_Mapa (Aug 7, 2025, 7:49:48 AM)
+[2025.08.07-18.49.48:538][999]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2025.08.07-18.49.48:540][999]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.08.07-18.49.48:564][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.49.48:629][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064739s)
+[2025.08.07-18.49.48:629][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.064786s)
+[2025.08.07-18.49.48:658][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.08.07-18.49.48:662][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.49.48:662][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.49.48:663][  0]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.07-18.49.48:663][  0]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2025.08.07-18.49.48:663][  0]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.07-18.49.48:663][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.07-18.49.48:663][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.07-18.49.48:664][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.07-18.49.48:664][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.07-18.49.48:664][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.07-18.49.48:666][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.07-18.49.48:690][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Echo Dot-BUH Stereo)
+[2025.08.07-18.49.48:690][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.07-18.49.48:690][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.07-18.49.48:690][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.07-18.49.48:691][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.07-18.49.48:691][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.07-18.49.48:693][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.07-18.49.48:693][  0]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.07-18.49.48:693][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.07-18.49.48:693][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'Nuevo_Mapa'.
+[2025.08.07-18.49.48:693][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.07-18.49.48:696][  0]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.07-18.49.48:734][  0]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.07-12.49.48
+[2025.08.07-18.49.48:735][  0]LogWorld: Bringing up level for play took: 0.038189
+[2025.08.07-18.49.48:740][  0]PIE: Server logged in
+[2025.08.07-18.49.48:741][  0]PIE: Play in editor total start time 0.204 seconds.
+[2025.08.07-18.50.19:049][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.50.19:049][516]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.50.19:050][516]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.50.19:054][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.50.19:074][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.07-18.50.19:080][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.50.19:098][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.07-18.50.19:099][516]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.07-18.50.19:099][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.07-18.50.19:101][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.07-18.50.19:105][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.50.19:114][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.08.07-18.50.19:184][517]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.08.07-18.55.55:050][662]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Logitech G733 Gaming Headset), InstanceID=1
+[2025.08.07-18.55.55:053][662]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16844
+[2025.08.07-18.55.55:173][669]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{5948c886-e217-4212-81a9-21c118188743}, Name=Altavoces (Logitech G733 Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=112.53
+[2025.08.07-18.55.55:173][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.08.07-18.55.55:175][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.07-18.56.38:504][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_LockedDoor.BP_LockedDoor_C
+[2025.08.07-18.56.38:504][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_LockedDoor.BP_LockedDoor_C
+[2025.08.07-18.56.38:507][645]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_LockedDoor.BP_LockedDoor as actor: BP_LockedDoor_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_LockedDoor_C_4
+[2025.08.07-18.56.38:509][645]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_LockedDoor.BP_LockedDoor as actor: BP_LockedDoor_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_LockedDoor_C_4
+[2025.08.07-18.56.40:765][763]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_LockedDoor.BP_LockedDoor_C
+[2025.08.07-18.56.40:766][763]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_LockedDoor.BP_LockedDoor_C
+[2025.08.07-18.56.40:771][763]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_LockedDoor.BP_LockedDoor as actor: BP_LockedDoor_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_LockedDoor_C_5
+[2025.08.07-18.56.40:774][763]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_LockedDoor.BP_LockedDoor as actor: BP_LockedDoor_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_LockedDoor_C_5
+[2025.08.07-18.56.43:253][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.56.43:253][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.56.43:256][946]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_6
+[2025.08.07-18.56.43:258][946]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_6
+[2025.08.07-18.56.44:717][ 23]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.56.44:717][ 23]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_Keys.BP_Keys_C
+[2025.08.07-18.56.44:722][ 23]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_7
+[2025.08.07-18.56.44:725][ 23]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_Keys.BP_Keys as actor: BP_Keys_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_Keys_C_7
+[2025.08.07-18.57.15:090][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.07-18.57.15:101][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.07-18.57.15:101][524]PIE: New page: PIE session: Nuevo_Mapa (Aug 7, 2025, 7:57:15 AM)
+[2025.08.07-18.57.15:102][524]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.08.07-18.57.15:104][524]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.08.07-18.57.15:130][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.57.15:199][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068710s)
+[2025.08.07-18.57.15:199][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.068761s)
+[2025.08.07-18.57.15:227][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.07-18.57.15:230][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.57.15:230][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.57.15:231][525]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.07-18.57.15:232][525]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2025.08.07-18.57.15:232][525]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.07-18.57.15:232][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.07-18.57.15:232][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.07-18.57.15:232][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.07-18.57.15:232][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.07-18.57.15:232][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.07-18.57.15:234][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.07-18.57.15:262][525]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2025.08.07-18.57.15:262][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.07-18.57.15:262][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.07-18.57.15:262][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.07-18.57.15:263][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.07-18.57.15:263][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2025.08.07-18.57.15:266][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.07-18.57.15:266][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.07-18.57.15:266][525]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.07-18.57.15:266][525]LogAudio: Display: Audio Device (ID: 14) registered with world 'Nuevo_Mapa'.
+[2025.08.07-18.57.15:266][525]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.07-18.57.15:269][525]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.07-18.57.15:309][525]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.07-12.57.15
+[2025.08.07-18.57.15:309][525]LogWorld: Bringing up level for play took: 0.040130
+[2025.08.07-18.57.15:316][525]PIE: Server logged in
+[2025.08.07-18.57.15:317][525]PIE: Play in editor total start time 0.215 seconds.
+[2025.08.07-18.57.27:279][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.57.27:280][ 88]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.57.27:280][ 88]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.57.27:284][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.57.27:289][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.07-18.57.27:296][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.57.27:316][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.07-18.57.27:316][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.07-18.57.27:316][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.07-18.57.27:318][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.07-18.57.27:323][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.57.27:334][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.08.07-18.57.27:405][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.08.07-18.57.28:859][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.07-18.57.28:870][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.07-18.57.28:871][211]PIE: New page: PIE session: Nuevo_Mapa (Aug 7, 2025, 7:57:28 AM)
+[2025.08.07-18.57.28:909][211]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.08.07-18.57.28:911][211]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.08.07-18.57.28:937][212]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.57.29:008][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071470s)
+[2025.08.07-18.57.29:008][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Nuevo_Mapa.Nuevo_Mapa to /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa (0.071517s)
+[2025.08.07-18.57.29:026][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.07-18.57.29:029][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-18.57.29:029][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-18.57.29:030][212]LogAIModule: Creating AISystem for world Nuevo_Mapa
+[2025.08.07-18.57.29:030][212]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2025.08.07-18.57.29:030][212]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.07-18.57.29:030][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.07-18.57.29:030][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.07-18.57.29:030][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.07-18.57.29:030][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.07-18.57.29:030][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.07-18.57.29:031][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.07-18.57.29:031][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.07-18.57.29:031][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.07-18.57.29:031][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.07-18.57.29:031][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.07-18.57.29:031][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.07-18.57.29:034][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.07-18.57.29:063][212]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2025.08.07-18.57.29:063][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.07-18.57.29:063][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.07-18.57.29:063][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.07-18.57.29:064][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.07-18.57.29:064][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2025.08.07-18.57.29:068][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.07-18.57.29:068][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.07-18.57.29:068][212]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.07-18.57.29:068][212]LogAudio: Display: Audio Device (ID: 15) registered with world 'Nuevo_Mapa'.
+[2025.08.07-18.57.29:068][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.07-18.57.29:071][212]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.07-18.57.29:112][212]LogWorld: Bringing World /Game/UEDPIE_0_Nuevo_Mapa.Nuevo_Mapa up for play (max tick rate 0) at 2025.08.07-12.57.29
+[2025.08.07-18.57.29:112][212]LogWorld: Bringing up level for play took: 0.040414
+[2025.08.07-18.57.29:120][212]PIE: Server logged in
+[2025.08.07-18.57.29:121][212]PIE: Play in editor total start time 0.251 seconds.
+[2025.08.07-18.57.33:161][394]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.33:333][404]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.33:493][413]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.33:647][422]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.33:817][432]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.33:956][439]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.39:232][691]LogBlueprintUserMessages: [StaticMeshActor_314] Need a Key!!
+[2025.08.07-18.57.39:399][699]LogBlueprintUserMessages: [StaticMeshActor_314] Need a Key!!
+[2025.08.07-18.57.46:818][ 97]LogBlueprintUserMessages: [BP_LockedDoor_C_5] Need a Key!!
+[2025.08.07-18.57.59:719][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.57.59:719][711]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Nuevo_Mapa
+[2025.08.07-18.57.59:722][711]LogWorld: UWorld::CleanupWorld for Nuevo_Mapa, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-18.57.59:726][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.57.59:752][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.07-18.57.59:761][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-18.57.59:778][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.07-18.57.59:783][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.07-18.57.59:783][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.07-18.57.59:785][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.07-18.57.59:800][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.08.07-18.57.59:871][712]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.08.07-18.58.20:755][273]Cmd: DELETE
+[2025.08.07-18.58.20:755][273]Cmd: ACTOR DELETE
+[2025.08.07-18.58.20:770][273]LogEditorActor: Actor BP_LockedDoor is referenced by BP_Keys.
+[2025.08.07-18.58.22:416][273]LogSlate: Window 'Message' being destroyed
+[2025.08.07-18.58.22:445][273]Message dialog closed, result: Yes, title: Message, text: Actor BP_LockedDoor is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Keys
+[2025.08.07-18.58.22:446][273]LogEditorActor: Deleted Actor: BP_LockedDoor_C
+[2025.08.07-18.58.22:470][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.07-18.58.22:474][273]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.08.07-18.58.24:363][438]Cmd: DELETE
+[2025.08.07-18.58.24:363][438]Cmd: ACTOR DELETE
+[2025.08.07-18.58.24:379][438]LogEditorActor: Deleted Actor: BP_Keys_C
+[2025.08.07-18.58.24:396][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.07-18.58.24:399][438]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.08.07-18.59.08:173][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.07-18.59.08:175][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nuevo_Mapa" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.08.07-18.59.08:407][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Nuevo_Mapa_Auto8
+[2025.08.07-18.59.08:407][665]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Nuevo_Mapa_Auto8BD1F3ED74014E67A82F8568702C9AFA5.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto8.umap'
+[2025.08.07-18.59.08:410][665]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto8.umap is in the /Temp path, will not scan.
+[2025.08.07-18.59.08:410][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.254
+[2025.08.07-18.59.08:410][665]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.254
+[2025.08.07-19.00.05:839][903]LogDerivedDataCache: C:/Users/ricar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.265 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3559 files in 5202 folders with total size 211 MiB.
+[2025.08.07-19.04.34:012][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_BubbleMachine.BP_BubbleMachine_C
+[2025.08.07-19.04.34:012][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_BubbleMachine.BP_BubbleMachine_C
+[2025.08.07-19.04.34:016][419]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine as actor: BP_BubbleMachine_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_BubbleMachine_C_0
+[2025.08.07-19.04.34:019][419]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine as actor: BP_BubbleMachine_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_BubbleMachine_C_0
+[2025.08.07-19.04.35:964][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_BubbleMachine.BP_BubbleMachine_C
+[2025.08.07-19.04.35:964][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BPs/BP_BubbleMachine.BP_BubbleMachine_C
+[2025.08.07-19.04.35:969][558]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine as actor: BP_BubbleMachine_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_BubbleMachine_C_1
+[2025.08.07-19.04.35:971][558]LogActorFactory: Actor Factory spawned Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine as actor: BP_BubbleMachine_C /Game/Nuevo_Mapa.Nuevo_Mapa:PersistentLevel.BP_BubbleMachine_C_1
+[2025.08.07-19.04.37:661][713]Cmd: DELETE
+[2025.08.07-19.04.37:661][713]Cmd: ACTOR DELETE
+[2025.08.07-19.04.37:680][713]LogEditorActor: Deleted Actor: BP_BubbleMachine_C
+[2025.08.07-19.04.37:701][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.08.07-19.04.37:704][713]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.08.07-19.05.05:315][550]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Echo Dot-BUH Stereo), InstanceID=1
+[2025.08.07-19.05.05:495][550]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16844
+[2025.08.07-19.05.06:162][552]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{594504c0-08a7-47ed-b129-1a71cd5fa8da}, Name=Altavoces (Echo Dot-BUH Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=454.59
+[2025.08.07-19.05.06:162][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.07-19.05.06:164][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.07-19.05.45:955][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.07-19.05.45:955][676]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.05.45:955][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.05.46:464][704]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.07-19.05.46:464][704]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.05.46:464][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.05.47:271][761]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.05.47:272][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.05.47:664][782]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.07-19.05.47:664][782]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.05.47:664][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.05.48:735][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BPs/BP_BubbleMachine.BP_BubbleMachine
+[2025.08.07-19.05.48:736][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.05.48:736][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.09.09:029][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.07-19.09.09:039][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nuevo_Mapa" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.08.07-19.09.09:271][128]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Nuevo_Mapa_Auto9
+[2025.08.07-19.09.09:272][128]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Nuevo_Mapa_Auto9FE51204547902FE9B5B7D995E9D2AF61.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto9.umap'
+[2025.08.07-19.09.09:274][128]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto9.umap is in the /Temp path, will not scan.
+[2025.08.07-19.09.09:275][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.268
+[2025.08.07-19.09.09:275][128]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.268
+[2025.08.07-19.12.05:294][225]Cmd: SELECT NONE
+[2025.08.07-19.15.30:535][606]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.08.07-19.15.30:545][606]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.08.07-19.15.30:553][606]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.08.07-19.15.30:577][607]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.08.07-19.15.36:385][268]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Minigame
+[2025.08.07-19.15.36:392][268]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.08.07-19.15.40:377][659]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Minigame.W_Minigame
+[2025.08.07-19.15.40:377][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.15.40:377][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.15.40:387][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.15.40:387][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.15.40:396][659]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.08.07-19.15.40:769][659]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.08.07-19.15.40:778][659]LogSlate: Took 0.008545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.07-19.18.57:317][741]LogSlate: Window 'W_Minigame' being destroyed
+[2025.08.07-19.19.27:253][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.08.07-19.19.27:260][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.032
+[2025.08.07-19.19.27:260][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Minigame] ([2] browsable assets)...
+[2025.08.07-19.19.27:263][552]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Minigame.W_Minigame]
+[2025.08.07-19.19.27:264][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Minigame]
+[2025.08.07-19.19.27:264][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.08.07-19.19.27:267][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Minigame_Auto0
+[2025.08.07-19.19.27:267][552]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame_Auto077BA9C4E425A0754234321AE3A5E13B6.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto0.uasset'
+[2025.08.07-19.19.27:268][552]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.08.07-19.23.56:512][558]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Stamina.W_Stamina
+[2025.08.07-19.23.56:513][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.23.56:513][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.23.56:525][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.23.56:525][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.24.05:326][577]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.24.05:327][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.24.05:338][577]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.24.05:338][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.24.18:617][ 81]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Stamina.W_Stamina
+[2025.08.07-19.24.18:618][ 81]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.24.18:618][ 81]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.24.18:628][ 81]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.24.18:628][ 81]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.24.21:385][382]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.24.21:385][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.24.21:397][382]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.24.21:397][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.29.16:843][202]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.07-19.30.13:246][584]LogEditorTransaction: Undo Edit Bottom
+[2025.08.07-19.33.47:618][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.08.07-19.33.47:624][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nuevo_Mapa" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.08.07-19.33.47:852][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Nuevo_Mapa_Auto1
+[2025.08.07-19.33.47:853][645]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Nuevo_Mapa_Auto1966DEC1542366DA007F662B06B7DAC20.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto1.umap'
+[2025.08.07-19.33.47:855][645]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/Nuevo_Mapa_Auto1.umap is in the /Temp path, will not scan.
+[2025.08.07-19.33.47:856][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.264
+[2025.08.07-19.33.47:856][645]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.264
+[2025.08.07-19.33.47:856][645]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Minigame] ([2] browsable assets)...
+[2025.08.07-19.33.47:859][645]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Minigame.W_Minigame]
+[2025.08.07-19.33.47:859][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Minigame]
+[2025.08.07-19.33.47:859][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.08.07-19.33.47:863][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Minigame_Auto1
+[2025.08.07-19.33.47:863][645]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame_Auto13798F0D04D875CC934B5C599A8AF96DE.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto1.uasset'
+[2025.08.07-19.33.47:864][645]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.08.07-19.37.37:104][538]BlueprintLog: New page: Compile W_Minigame
+[2025.08.07-19.37.37:137][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.08.07-19.37.38:137][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-19.37.38:179][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset" SILENT=true
+[2025.08.07-19.37.38:186][610]LogSavePackage: Moving output files for package: /Game/UI/W_Minigame
+[2025.08.07-19.37.38:186][610]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame2DD5D80449A992DE138597B720821655.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset'
+[2025.08.07-19.37.38:198][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.27 sec)
+[2025.08.07-19.37.38:199][610]AssetCheck: New page: Asset Save: W_Minigame
+[2025.08.07-19.37.38:199][610]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Minigame.W_Minigame
+[2025.08.07-19.42.12:596][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BPs/BP_Door.BP_Door
+[2025.08.07-19.42.12:597][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.42.12:597][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.42.17:747][860]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.42.17:747][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.42.23:455][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BPs/BP_Enemy.BP_Enemy
+[2025.08.07-19.42.23:456][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.42.23:456][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.42.45:313][412]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.42.45:313][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.42.53:734][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.42.54:763][273]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.08.07-19.42.54:763][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.42.54:763][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: ================================================
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Total job queries 332, among them cache hits 128 (38.55%)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Tracking 204 distinct input hashes that result in 132 distinct outputs (64.71%)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: RAM used: 4.55 MiB of 1.60 GiB budget. Usage: 0.28%
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Shaders Compiled: 37
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Average time worker was idle: 1479.11 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.59 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 2.24 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Job life time (pending + execution): average 1.32 s, max 2.26
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Shader code size: average 37.486 KiB, min 6 KiB, max 71.016 KiB
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.09 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Total thread time: 27.981 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Total thread preprocess time: 10.655 s
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Percentage time preprocessing: 38.08%
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Effective parallelization: 3.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.16 sec, max 1.61 sec, min 0.72 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.02 sec, max 1.44 sec, min 0.67 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.44% of total time (compiled    7 times, average 0.78 sec, max 1.35 sec, min 0.38 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.22% of total time (compiled    5 times, average 1.02 sec, max 1.44 sec, min 0.67 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.62% of total time (compiled    7 times, average 0.66 sec, max 1.08 sec, min 0.40 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.35% of total time (compiled    6 times, average 0.67 sec, max 1.07 sec, min 0.34 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.31% of total time (compiled    2 times, average 1.16 sec, max 1.61 sec, min 0.72 sec)
+[2025.08.07-19.42.55:146][274]LogShaderCompilers: Display: ================================================
+[2025.08.07-19.42.55:386][275]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.07-19.43.13:026][572]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.08.07-19.43.13:026][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.07-19.43.43:151][ 81]BlueprintLog: New page: Compile W_Minigame
+[2025.08.07-19.43.43:190][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.07-19.43.44:005][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-19.43.44:039][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset" SILENT=true
+[2025.08.07-19.43.44:046][169]LogSavePackage: Moving output files for package: /Game/UI/W_Minigame
+[2025.08.07-19.43.44:047][169]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame9FC6614646FEB9BF27AEE587F8DAB286.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset'
+[2025.08.07-19.43.44:059][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 4.32 sec)
+[2025.08.07-19.43.44:061][169]AssetCheck: New page: Asset Save: W_Minigame
+[2025.08.07-19.43.44:061][169]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Minigame.W_Minigame
+[2025.08.07-19.44.56:157][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.08.07-19.44.56:159][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.021
+[2025.08.07-19.44.56:160][429]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Minigame] ([2] browsable assets)...
+[2025.08.07-19.44.56:166][429]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Minigame.W_Minigame]
+[2025.08.07-19.44.56:166][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Minigame]
+[2025.08.07-19.44.56:166][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.08.07-19.44.56:175][429]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Minigame_Auto2
+[2025.08.07-19.44.56:175][429]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame_Auto28A57C5AA4D901220122C978BAFB37044.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto2.uasset'
+[2025.08.07-19.44.56:176][429]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.08.07-19.46.01:311][105]BlueprintLog: New page: Compile W_Minigame
+[2025.08.07-19.46.01:340][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.07-19.46.02:007][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-19.46.02:039][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset" SILENT=true
+[2025.08.07-19.46.02:049][177]LogSavePackage: Moving output files for package: /Game/UI/W_Minigame
+[2025.08.07-19.46.02:050][177]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame4E838E304089FF6290D719A8A9D497A5.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset'
+[2025.08.07-19.46.02:060][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 4.37 sec)
+[2025.08.07-19.46.02:062][177]AssetCheck: New page: Asset Save: W_Minigame
+[2025.08.07-19.46.02:062][177]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Minigame.W_Minigame
+[2025.08.07-19.55.24:915][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.08.07-19.55.24:918][303]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nuevo_Mapa' took 0.023
+[2025.08.07-19.55.24:918][303]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Minigame] ([2] browsable assets)...
+[2025.08.07-19.55.24:922][303]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Minigame.W_Minigame]
+[2025.08.07-19.55.24:923][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Minigame]
+[2025.08.07-19.55.24:923][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.08.07-19.55.24:933][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Minigame_Auto3
+[2025.08.07-19.55.24:933][303]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame_Auto3624C4E7345A2FFD26745C097FB0CA6A6.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Autosaves/Game/UI/W_Minigame_Auto3.uasset'
+[2025.08.07-19.55.24:934][303]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.08.07-19.58.54:242][931]BlueprintLog: New page: Compile W_Minigame
+[2025.08.07-19.58.54:278][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.08.07-19.58.55:182][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-19.58.55:218][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Minigame" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset" SILENT=true
+[2025.08.07-19.58.55:230][ 19]LogSavePackage: Moving output files for package: /Game/UI/W_Minigame
+[2025.08.07-19.58.55:231][ 19]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/W_Minigame965EEE8F4840FA0591A3D9A7B6115B4A.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/UI/W_Minigame.uasset'
+[2025.08.07-19.58.55:241][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 4.43 sec)
+[2025.08.07-19.58.55:243][ 19]AssetCheck: New page: Asset Save: W_Minigame
+[2025.08.07-19.58.55:243][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Minigame.W_Minigame
+[2025.08.07-19.58.56:891][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-19.58.56:931][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nuevo_Mapa" FILE="../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Nuevo_Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.07-19.58.56:989][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.07-19.58.57:221][169]LogSavePackage: Moving output files for package: /Game/Nuevo_Mapa
+[2025.08.07-19.58.57:222][169]LogSavePackage: Moving '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Saved/Nuevo_Mapa2A0CE35947354583195FE8AA78FFD5A9.tmp' to '../../../../../../Users/ricar/EchoesOfRegret/GGJ2025JAN/Content/Nuevo_Mapa.umap'
+[2025.08.07-19.58.57:235][169]LogFileHelpers: Saving map 'Nuevo_Mapa' took 0.306
+[2025.08.07-19.58.57:244][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 353 ms (total: 4.79 sec)
+[2025.08.07-19.58.57:251][169]AssetCheck: New page: Asset Save: Nuevo_Mapa
+[2025.08.07-19.58.57:251][169]LogContentValidation: Display: Validating /Script/Engine.World /Game/Nuevo_Mapa.Nuevo_Mapa
